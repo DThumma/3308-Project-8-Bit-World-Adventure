@@ -43,7 +43,7 @@ ID#N03 | As an account management algorithm, it needs to hold at least 10,000 in
 ID#N04 | As an account management algorithm, it needs to backup user data daily to external server in order to secure it. | 4 hours | 7 | User Accounts |
 
 #####Methodology: 
-Agile
+We will be using Agile
 
 #####Project Tracking software: 
 Using Trello. <a href="https://trello.com/b/TOWQkZRm/softwareproject-8bitworldmap" target="_blank">Link to project planner</a>
