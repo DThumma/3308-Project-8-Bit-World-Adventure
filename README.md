@@ -1,7 +1,7 @@
 # 3308-Project-8-Bit-World-Adventure
 
 ######Who:
-    Jeffrey Won, Jeffrey Kim, Deekshitha Thumma, Michael Min, Gabriel Cohen
+```Jeffrey Won, Jeffrey Kim, Deekshitha Thumma, Michael Min, Gabriel Cohen```
 
 ######Title: 
 8-bit World Adventure!
