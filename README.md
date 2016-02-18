@@ -1,22 +1,22 @@
 # 3308-Project-8-Bit-World-Adventure
 
 ######Who:
-```Jeffrey Won, Jeffrey Kim, Deekshitha Thumma, Michael Min, Gabriel Cohen```
+    Jeffrey Won, Jeffrey Kim, Deekshitha Thumma, Michael Min, Gabriel Cohen
 
 ######Title: 
-8-bit World Adventure!
+    8-bit World Adventure!
 
 ######Description: 
-Moving around the world map with your own unique character to explore and learn about world geography. 
+    Moving around the world map with your own unique character to explore and learn about world geography. 
 
 ######Vision Statement: 
-“Teaching geography to kids in the most entertaining way”
+    “Teaching geography to kids in the most entertaining way”
 
 ######Motivation: 
-Create a fun and easy way to learn geography for all types of people
+    Create a fun and easy way to learn geography for all types of people
 
 ######Risks: 
-Many members have never used RPG maker before and our weekly meeting times are unclear as of February 16, 2016. In the case of more technical issues, we expect significant difficulties in combining RPG maker with the course curriculum. In addition, there may be problems in adding enough features to the final product to make it legitimately interesting, as we are still unsure of how large we want the project to be. 
+Many members have never used RPG maker before and our weekly meeting times are unclear as of February 16, 2016. In the case of        more technical issues, we expect significant difficulties in combining RPG maker with the course curriculum. In addition, there       may be problems in adding enough features to the final product to make it legitimately interesting, as we are still unsure of how  large we want the project to be. 
 
 ######Mitigation strategy: 
 We plan to create mandatory weekly technical goals to learn RPG maker, which will improve our abilities and help us understand how sophisticated we can make the map in the time allowed. To address meetings until concrete time slots are established, we will use Skype to organize group coding and communications. 
