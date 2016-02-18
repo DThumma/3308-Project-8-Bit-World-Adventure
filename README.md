@@ -37,7 +37,7 @@ ID#F02 | As a quest tracker, it needs to issue a corresponding “quest score”
 ########Non-Functional Requirements: 
 ID | Requirement | Time Est. for Completeion | Priority (1-10) | Topic |
 |---|  ---------|--------------------------|----------------|-------|
-ID#N01 | As an account management algorithm, it needs to sort through at least thousand accounts within 1 second, so users don’t feel delayed | 3 hour | 2) | Topic-User Accounts|
+ID#N01 | As an account management algorithm, it needs to sort through at least thousand accounts within 1 second, so users don’t feel delayed | 3 hours | 2 | User Accounts|
 ID#N02 | As a quest tracker, it needs to update user’s game score within 100ms, so the game does not lag. | 3 hours | 5 | Optimization |
 ID#N03 | As an account management algorithm, it needs to hold at least 10,000 individual account, so as many people can join in. |2 hours | 2 | User Accounts |
 ID#N04 | As an account management algorithm, it needs to backup user data daily to external server in order to secure it. | 4 hours | 7 | User Accounts |
