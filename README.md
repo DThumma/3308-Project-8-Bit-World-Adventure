@@ -10,7 +10,7 @@ Jeffrey Won, Jeffrey Kim, Deekshitha Thumma, Michael Min, Gabriel Cohen
 Moving around the world map with your own unique character to explore and learn about world geography. 
 
 #####Vision Statement: 
-“Teaching geography to kids in the most entertaining way”
+“Teach geography to kids in the most entertaining way”
 
 #####Motivation: 
 Create a fun and easy way to learn geography for all types of people
@@ -50,4 +50,6 @@ Using Trello. Link to project planner:  https://trello.com/b/TOWQkZRm/softwarepr
 
 #####Project plan: 
 
-
+![Screenshot 1](http://imgur.com/SRPCki2.png)
+![Screenshot 2](http://imgur.com/M8Z6fWl.png)
+![Screenshot 3](http://imgur.com/WC5IPMG.png)
