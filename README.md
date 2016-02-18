@@ -46,7 +46,7 @@ ID#N04 | As an account management algorithm, it needs to backup user data daily 
 Agile
 
 #####Project Tracking software: 
-Using Trello. Link to project planner:  https://trello.com/b/TOWQkZRm/softwareproject-8bitworldmap 
+Using Trello. [Link to project planner](https://trello.com/b/TOWQkZRm/softwareproject-8bitworldmap )
 
 #####Project plan: 
 
