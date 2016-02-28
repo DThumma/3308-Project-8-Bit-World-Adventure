@@ -1,0 +1,230 @@
+1      China                                              19510000000000                               
+2      European Union                                     19180000000000                               
+3      United States                                      17970000000000                               
+4      India                                              8027000000000                                
+5      Japan                                              4658000000000                                
+6      Germany                                            3842000000000                                
+7      Russia                                             3471000000000                                
+8      Brazil                                             3166000000000                                
+9      Indonesia                                          2839000000000                                
+10     United Kingdom                                     2660000000000                                
+11     France                                             2647000000000                                
+12     Mexico                                             2220000000000                                
+13     Italy                                              2174000000000                                
+14     Korea South                                       1849000000000                                
+15     Saudi Arabia                                       1681000000000                                
+16     Spain                                              1636000000000                                
+17     Canada                                             1628000000000                                
+18     Turkey                                             1576000000000                                
+19     Australia                                          1489000000000                                
+20     Iran                                               1382000000000                                
+21     Taiwan                                             1114000000000                                
+22     Thailand                                           1107000000000                                
+23     Nigeria                                            1105000000000                                
+24     Poland                                             1003000000000                                
+25     Egypt                                              996000000000                                  
+26     Argentina                                          964300000000                                  
+27     Pakistan                                           930800000000                                  
+28     Netherlands                                        831400000000                                  
+29     Malaysia                                           813500000000                                  
+30     Philippines                                        742200000000                                  
+31     South Africa                                       724000000000                                  
+32     Colombia                                           665000000000                                  
+33     United Arab Emirates                               641900000000                                  
+34     Bangladesh                                         577000000000                                  
+35     Algeria                                            570600000000                                  
+36     Vietnam                                            551300000000                                  
+37     Iraq                                               531400000000                                  
+38     Belgium                                            494600000000                                  
+39     Venezuela                                          491600000000                                  
+40     Switzerland                                        482700000000                                  
+41     Singapore                                          468900000000                                  
+42     Sweden                                             467400000000                                  
+43     Kazakhstan                                         430500000000                                  
+44     Chile                                              424300000000                                  
+45     Hong Kong                                          414500000000                                  
+46     Romania                                            411100000000                                  
+47     Austria                                            403800000000                                  
+48     Peru                                               385400000000                                  
+49     Norway                                             352800000000                                  
+50     Ukraine                                            334200000000                                  
+51     Czech Republic                                     331400000000                                  
+52     Qatar                                              324200000000                                  
+53     Kuwait                                             288800000000                                  
+54     Portugal                                           288600000000                                  
+55     Israel                                             281800000000                                  
+56     Greece                                             281600000000                                  
+57     Morocco                                            274500000000                                  
+58     Burma                                              267700000000                                  
+59     Denmark                                            257100000000                                  
+60     Hungary                                            257000000000                                  
+61     Ireland                                            250300000000                                  
+62     Sri Lanka                                          232500000000                                  
+63     Finland                                            224700000000                                  
+64     Uzbekistan                                         185800000000                                  
+65     Angola                                             185200000000                                  
+66     Ecuador                                            181800000000                                  
+67     Azerbaijan                                         174300000000                                  
+68     Oman                                               171700000000                                  
+69     Belarus                                            168200000000                                  
+70     Sudan                                              167400000000                                  
+71     New Zealand                                        166000000000                                  
+72     Slovakia                                           159600000000                                  
+73     Ethiopia                                           159200000000                                  
+74     Dominican Republic                                 147600000000                                  
+75     Kenya                                              143100000000                                  
+76     Tanzania                                           138300000000                                  
+77     Bulgaria                                           132600000000                                  
+78     Cuba                                               128500000000                                  
+79     Tunisia                                            127200000000                                  
+80     Guatemala                                          125600000000                                  
+81     Ghana                                              113300000000                                  
+82     Serbia                                             97270000000                                   
+83     Libya                                              92870000000                                   
+84     Croatia                                            90330000000                                   
+85     Turkmenistan                                       90290000000                                   
+86     Lebanon                                            83860000000                                   
+87     Jordan                                             82990000000                                   
+88     Panama                                             82180000000                                   
+89     Lithuania                                          82140000000                                   
+90     Uganda                                             79750000000                                   
+91     Cote d'Ivoire                                      78330000000                                   
+92     Yemen                                              75520000000                                   
+93     Costa Rica                                         74090000000                                   
+94     Bolivia                                            73880000000                                   
+95     Uruguay                                            72360000000                                   
+96     Cameroon                                           72110000000                                   
+97     Nepal                                              70080000000                                   
+98     Bahrain                                            64900000000                                   
+99     Zambia                                             64650000000                                   
+100    Slovenia                                           63600000000                                   
+101    Congo Democratic Republic of the                  63270000000                                   
+102    Afghanistan                                        62790000000                                   
+103    Puerto Rico                                        61460000000                                   
+104    Paraguay                                           60150000000                                   
+105    Luxembourg                                         56580000000                                   
+106    Syria                                              55800000000                                   
+107    Cambodia                                           54170000000                                   
+108    El Salvador                                        52880000000                                   
+109    Macau                                              51680000000                                   
+110    Latvia                                             49890000000                                   
+111    Trinidad and Tobago                                44320000000                                   
+112    Honduras                                           41000000000                                   
+113    Korea North                                       40000000000                                   
+114    Bosnia and Herzegovina                             39460000000                                   
+115    Estonia                                            37880000000                                   
+116    Laos                                               37500000000                                   
+117    Botswana                                           37160000000                                   
+118    Mongolia                                           36430000000                                   
+119    Senegal                                            36300000000                                   
+120    Madagascar                                         35560000000                                   
+121    Georgia                                            35370000000                                   
+122    Gabon                                              34410000000                                   
+123    Mozambique                                         33730000000                                   
+124    Brunei                                             32900000000                                   
+125    Albania                                            32440000000                                   
+126    Chad                                               32000000000                                   
+127    Nicaragua                                          31180000000                                   
+128    Burkina Faso                                       31180000000                                   
+129    Mali                                               29150000000                                   
+130    Congo Republic of the                             28920000000                                   
+131    Macedonia                                          28890000000                                   
+132    Zimbabwe                                           27920000000                                   
+133    Cyprus                                             27910000000                                   
+134    Equatorial Guinea                                  25940000000                                   
+135    Armenia                                            25220000000                                   
+136    Namibia                                            24840000000                                   
+137    Jamaica                                            24600000000                                   
+138    Mauritius                                          24510000000                                   
+139    Tajikistan                                         23300000000                                   
+140    South Sudan                                        22460000000                                   
+141    West Bank                                          21170000000                                   
+142    Benin                                              21160000000                                   
+143    Malawi                                             20560000000                                   
+144    Rwanda                                             20320000000                                   
+145    Kyrgyzstan                                         19810000000                                   
+146    Papua New Guinea                                   19220000000                                   
+147    Haiti                                              19020000000                                   
+148    Niger                                              18960000000                                   
+149    Moldova                                            17770000000                                   
+150    Kosovo                                             17630000000                                   
+151    Mauritania                                         16430000000                                   
+152    Guinea                                             15280000000                                   
+153    Iceland                                            15010000000                                   
+154    Malta                                              14750000000                                   
+155    New Caledonia                                      11100000000                                   
+156    Swaziland                                          10870000000                                   
+157    Togo                                               10820000000                                   
+158    Sierra Leone                                       9833000000                                    
+159    Montenegro                                         9829000000                                    
+160    Bahamas The                                       9231000000                                    
+161    Suriname                                           9211000000                                    
+162    Eritrea                                            7938000000                                    
+163    Burundi                                            7883000000                                    
+164    Fiji                                               7798000000                                    
+165    French Polynesia                                   7150000000                                    
+166    Timor-Leste                                        7101000000                                    
+167    Monaco                                             6790000000                                    
+168    Bhutan                                             6383000000                                    
+169    Isle of Man                                        6298000000                                    
+170    Lesotho                                            5777000000                                    
+171    Jersey                                             5771000000                                    
+172    Guyana                                             5770000000                                    
+173    Bermuda                                            5198000000                                    
+174    Guam                                               4882000000                                    
+175    Maldives                                           4732000000                                    
+176    Barbados                                           4658000000                                    
+177    Somalia                                            4431000000                                    
+178    Virgin Islands                                     3792000000                                    
+179    Liberia                                            3780000000                                    
+180    Cabo Verde                                         3479000000                                    
+181    Guernsey                                           3451000000                                    
+182    Gambia The                                        3269000000                                    
+183    Liechtenstein                                      3200000000                                    
+184    Andorra                                            3163000000                                    
+185    Curacao                                            3128000000                                    
+186    Djibouti                                           3093000000                                    
+187    Belize                                             3071000000                                    
+188    Central African Republic                           3052000000                                    
+189    Guinea-Bissau                                      2677000000                                    
+190    Seychelles                                         2533000000                                    
+191    Aruba                                              2516000000                                    
+192    Cayman Islands                                     2507000000                                    
+193    Greenland                                          2173000000                                    
+194    Antigua and Barbuda                                2096000000                                    
+195    Saint Lucia                                        2032000000                                    
+196    San Marino                                         1952000000                                    
+197    Gibraltar                                          1850000000                                    
+198    Faroe Islands                                      1471000000                                    
+199    Grenada                                            1385000000                                    
+200    Saint Kitts and Nevis                              1358000000                                    
+201    Comoros                                            1214000000                                    
+202    Saint Vincent and the Grenadines                   1211000000                                    
+203    Solomon Islands                                    1141000000                                    
+204    Samoa                                              1033000000                                    
+205    Western Sahara                                     906500000                                      
+206    Dominica                                           820100000                                      
+207    American Samoa                                     711000000                                      
+208    Northern Mariana Islands                           682000000                                      
+209    Vanuatu                                            675900000                                      
+210    Sao Tome and Principe                              663700000                                      
+211    Turks and Caicos Islands                           632000000                                      
+212    Saint Martin                                       561500000                                      
+213    Tonga                                              520500000                                      
+214    British Virgin Islands                             500000000                                      
+215    Sint Maarten                                       365800000                                      
+216    Micronesia Federated States of                    310300000                                      
+217    Palau                                              262600000                                      
+218    Cook Islands                                       244100000                                      
+219    Saint Pierre and Miquelon                          215300000                                      
+220    Marshall Islands                                   186900000                                      
+221    Anguilla                                           175400000                                      
+222    Kiribati                                           169800000                                      
+223    Falkland Islands (Islas Malvinas)                  164500000                                      
+224    Nauru                                              150800000                                      
+225    Wallis and Futuna                                  60000000                                       
+226    Montserrat                                         43780000                                       
+227    Tuvalu                                             36580000                                       
+228    Saint Helena Ascension and Tristan da Cunha      31100000                                       
+229    Niue                                               10010000                                       
+230    Tokelau                                            1500000                                        
