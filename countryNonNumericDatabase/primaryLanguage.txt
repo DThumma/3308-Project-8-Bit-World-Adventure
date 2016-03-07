@@ -1,0 +1,131 @@
+1	Greenland						Danish
+2 	Canada							English
+3	Russia							Russian
+4	Svalbard and Jan Mayen					Norwegian
+5	Norway							Norwegian
+6	Finland							Finnish
+7	Sweden							Swedish
+8	United States						None
+9	Iceland							Icelandic
+10	United Kingdom						English
+11	Denmark							Danish
+12	Lithuania						Lithuanian
+13	Belarus							Russian
+14	Kazakhstan						Kazakh
+15	Netherlands						Dutch
+16	Poland							Polish
+17	China							Standard Chinese or Mandarin
+18	France							French
+19	Ukraine							Ukrainian
+20	Germany							German
+21	Slovakia						Slovak
+22	Mongolia						Khalkha Mongol
+23	France							French
+24	Austria							German
+25	Moldova							Moldova
+26	Hungary							Hungary
+27	Romania							Romanian
+28	Italy							Italian
+29	Croatia							Croatian
+30	Serbia							Serbian
+31	Romania							Romanian
+32	Bosnia and Herzegovina					Bosnian
+33	Bulgaria						Bulgarian
+34	Uzbekistan						Uzbek
+35	Turkey							Turkish
+36	Greece							Greek
+37	Turkmenistan						Turkmen
+38	Portugal						Portugese
+39	Spain							Castillian Spanish
+40	Azerbaijan						Azerbaijan
+41	Iran							Persian
+42	Portugal						Portugese
+43	Algeria							Arabic
+44	Tunisia							Arabic
+45	Afghanistan						Afghan Persian or Dari
+46	Pakistan						Urdu
+47	Morocco							Arabic
+48	South Korea						Korean
+49	Japan							Japanese
+50	Iraq							Arabic
+51	India							Hindi
+52	Libya							Arabic
+53	Syria							Arabic
+54	Israel							Hebrew
+55	Mexico							Spanish
+56	Morocco							Arabic
+57	Egypt							Arabic
+58	Palestinian Territories					Arabic
+59	Saudi Arabia						Arabic
+60	Nepal							Nepali
+61	Western Sahara						Standard Arabic
+62	Mauritania						Arabic
+63	United Arab Emirates					Arabic
+64	Mali							French
+65	Oman							Arabic
+66	Bangladesh						Bangla						
+67	Myanmar							Burmese
+68	Cuba							Spanish
+69	Niger							French							
+70	Sudan							Arabic
+71	Vietnam							Vietnamese
+72	Chad							French
+73	Yemen							Arabic
+74	Thailand						Thai
+75	Lao People's Democratic Republic			Lao
+76	Guatemala						Spanish
+77	Senegal							French
+78	Honduras						Spanish
+79	El Salvador						Spanish
+80	Nicaragua						Spanish
+81	Ethiopia						Amharic
+82	Cambodia						Khmer
+83	Philippines						Filipino
+84	Guinea							French
+85	Burkina Faso						French
+86	Djibouti						French
+87	Costa Rica						Spanish
+88	Colombia						Spanish
+89	Venezuela						Spanish
+90	Ghana							English
+91	Togo							French
+92	Benin							French
+93	Nigeria							English
+94	Cameroon						English
+95	Central African Republic				French
+96	South Sudan						English
+97	Somalia							Somali
+98	Panama							Spanish
+99	Sierra Leone						English
+100	Côte d'Ivoire						French
+101	Guyana							English
+102	Sri Lanka						Sinhala
+103	Suriname						Dutch
+104	French Guiana						French
+105	Indonesia						Bahasa Indonesia
+106	Malaysia						Bahasa Malaysia
+107	Democratic Republic of Congo				French
+108	Uganda							English
+109	Kenya							English
+110	Gabon							French
+111	Ecuador							Spanish
+112	Peru							Spanish
+113	Tanzania						Swahili
+114	Papua New Guinea					Tok Pisin
+115	Angola							Portugese
+116	Solomon Islands						English
+117	Zambia							English
+118	Mozambique						Portugese
+119	Bolivia							Spanish
+120	Australia						English
+121	Madagascar						French
+122	Namibia							English
+123	Botswana						English
+124	Zimbabwe						Shona
+125	Paraguay						Spanish
+126	Chile							Spanish
+127	Argentina						Spanish
+128	South Africa						IsiZulu
+129	New Zealand						English
+130	French Southern and Antarctic Lands			French
+131	Falkland Islands					English
