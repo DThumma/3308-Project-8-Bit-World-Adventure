@@ -1,0 +1,131 @@
+1	Greenland						Nuuk
+2 	Canada							Ottawa
+3	Russia							Moscow
+4	Svalbard and Jan Mayen					Longyearbyen
+5	Norway							Oslo
+6	Finland							Helsinki
+7	Sweden							Stockholm
+8	United States						Washington D.C.
+9	Iceland							Reykjavik
+10	United Kingdom						London
+11	Denmark							Copenhagen
+12	Lithuania						Vilnius
+13	Belarus							Minsk
+14	Kazakhstan						Astana
+15	Netherlands						Amsterdam
+16	Poland							Warsaw
+17	China							Beijing
+18	France							Paris
+19	Ukraine							Kyiv
+20	Germany							Berlin
+21	Slovakia						Bratislava
+22	Mongolia						Ulaanbaatar
+23	France							Paris
+24	Austria							Vienna
+25	Moldova							Chisinau
+26	Hungary							Budapest
+27	Romania							Bucharest
+28	Italy							Rome
+29	Croatia							Zagreb
+30	Serbia							Belgrade
+31	Romania							Bucharest
+32	Bosnia and Herzegovina					Sarajevo
+33	Bulgaria						Sofia
+34	Uzbekistan						Tashkent
+35	Turkey							Ankara
+36	Greece							Athens
+37	Turkmenistan						Ashgabat
+38	Portugal						Lisbon
+39	Spain							Madrid
+40	Azerbaijan						Baku
+41	Iran							Tehran
+42	Portugal						Madrid
+43	Algeria							Algiers
+44	Tunisia							Tunis
+45	Afghanistan						Kabul
+46	Pakistan						Islamabad
+47	Morocco							Rabat
+48	South Korea						Seoul
+49	Japan							Tokyo
+50	Iraq							Baghdad
+51	India							New Delhi
+52	Libya							Tripoli
+53	Syria							Damascus
+54	Israel							Jerusalem
+55	Mexico							Mexico City
+56	Morocco							Rabut
+57	Egypt							Cairo
+58	Palestinian Territories					Ramallah
+59	Saudi Arabia						Riyadh
+60	Nepal							Kathmandu
+61	Western Sahara						Laayoune
+62	Mauritania						Nouakchott
+63	United Arab Emirates					Abu Dhabi
+64	Mali							Bamako
+65	Oman							Muscat
+66	Bangladesh						Dhaka
+67	Myanmar							Naypyidaw
+68	Cuba							Havana
+69	Niger							Niamey
+70	Sudan							Khartoum
+71	Vietnam							Hanoi
+72	Chad							N'djamena
+73	Yemen							Sanaa
+74	Thailand						Bangkok
+75	Lao People's Democratic Republic			Vientiane
+76	Guatemala						Guatemala City
+77	Senegal							Dakar
+78	Honduras						Tegucigapala
+79	El Salvador						San Salvador
+80	Nicaragua						Managua
+81	Ethiopia						Addis Ababa
+82	Cambodia						Phnom Penh
+83	Philippines						Manila
+84	Guinea							Conakry
+85	Burkina Faso						Ouagadougou
+86	Djibouti						Djibouti
+87	Costa Rica						San Jose
+88	Colombia						Bogota
+89	Venezuela						Caracas
+90	Ghana							Accra
+91	Togo							Lome
+92	Benin							Port-Novo
+93	Nigeria							Abuja
+94	Cameroon						Yaounde
+95	Central African Republic				Bangui
+96	South Sudan						Juba
+97	Somalia							Mogadishu
+98	Panama							Panama City
+99	Sierra Leone						Freetown
+100	Côte d'Ivoire						Yamoussoukro
+101	Guyana							Georgetown
+102	Sri Lanka						Colombo
+103	Suriname						Paramaribo
+104	French Guiana						Cayenne
+105	Indonesia						Jakarta
+106	Malaysia						Kuala Lumpur
+107	Democratic Republic of Congo				Kinshasa
+108	Uganda							Kampala
+109	Kenya							Nairobi
+110	Gabon							Libreville
+111	Ecuador							Quito
+112	Peru							Lima
+113	Tanzania						Dar es Salaam
+114	Papua New Guinea					Port Moresby
+115	Angola							Luanda
+116	Solomon Islands						Honiara
+117	Zambia							Lusaka
+118	Mozambique						Maputo
+119	Bolivia							La Paz
+120	Australia						Canberra
+121	Madagascar						Antananarivo
+122	Namibia							Windhoek
+123	Botswana						Gaborone
+124	Zimbabwe						Harare
+125	Paraguay						Asuncion
+126	Chile							Santiago
+127	Argentina						Buenos Aires
+128	South Africa						Pretoria
+129	New Zealand						Wellington		
+130	French Southern and Antarctic Lands			Saint-Pierre
+131	Falkland Islands					Stanley
