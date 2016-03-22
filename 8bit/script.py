@@ -15,3 +15,4 @@ with open("results2.json","a") as g:
        json.dump(i,g,sort_keys=True,indent=4, separators=(',',': '))
      else:
        json.dump(i,g,sort_keys=True,indent=4, separators=(',',': '))
+       
