@@ -58,15 +58,15 @@ li.dropdown {
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Choose Avatar</a>
     <div class="dropdown-content" id="myDropdown">
-		<img src="femaleavatar1.png" alt="female avatar 1" style="width:100px;height:100px"/>
-		<img src="femaleavatar2.png" alt="female avatar 2" style="width:100px;height:100px" onclick="chooseAvatar(2)"/>
-		<img src="femaleavatar3.png" alt="female avatar 3" style="width:100px;height:100px" onclick="chooseAvatar(3)"/>
-		<img src="femaleavatar4.png" alt="female avatar 4" style="width:100px;height:100px" onclick="chooseAvatar(4)"/>
-		<img src="femaleavatar5.png" alt="female avatar 1" style="width:100px;height:100px" onclick="chooseAvatar(5)"/>
-		<img src="maleavatar1.png" alt="make avatar 1" style="width:100px;height:100px" onclick="chooseAvatar(6)"/>
-		<img src="maleavatar3.png" alt="male avatar 3" style="width:100px;height:100px" onclick="chooseAvatar(8)"/>
-		<img src="maleavatar4.png" alt="male avatar 4" style="width:100px;height:100px" onclick="chooseAvatar(9)"/>
-		<img src="maleavatar5.png" alt="male avatar 5" style="width:100px;height:100px" onclick="chooseAvatar(10)"/>
+		<img id = "pic1" src="femaleavatar1.png" alt="female avatar 1" style="width:100px;height:100px" onclick="chooseAvatar1()"/>
+		<img id = "pic2" src="femaleavatar2.png" alt="female avatar 2" style="width:100px;height:100px" onclick="chooseAvatar2()"/>
+		<img id = "pic3" src="femaleavatar3.png" alt="female avatar 3" style="width:100px;height:100px" onclick="chooseAvatar3()"/>
+		<img id = "pic4" src="femaleavatar4.png" alt="female avatar 4" style="width:100px;height:100px" onclick="chooseAvatar4()"/>
+		<img id = "pic5" src="femaleavatar5.png" alt="female avatar 1" style="width:100px;height:100px" onclick="chooseAvatar5()"/>
+		<img id = "pic6" src="maleavatar1.png" alt="make avatar 1" style="width:100px;height:100px" onclick="chooseAvatar6()"/>
+		<img id = "pic7" src="maleavatar3.png" alt="male avatar 3" style="width:100px;height:100px" onclick="chooseAvatar7()"/>
+		<img id = "pic8" src="maleavatar4.png" alt="male avatar 4" style="width:100px;height:100px" onclick="chooseAvatar8()"/>
+		<img id = "pic9" src="maleavatar5.png" alt="male avatar 5" style="width:100px;height:100px" onclick="chooseAvatar9()"/>
     </div>
   </li>
 </ul>
@@ -94,6 +94,10 @@ window.onclick = function(e) {
     }
   }
 }
+function chooseAvatar1(pic) {
+	document.getElementById('pic2').src='femaleavatar1.png'
+}
+
 </script>
 </body>
 </html>
