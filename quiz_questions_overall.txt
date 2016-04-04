@@ -1,0 +1,74 @@
+1. Which of the following correctly lists the countries in the order of highest purchasing power?
+	<ANS> a) China, United States, Japan, Mexico, Somalia
+	b) United States, Germany, Brazil, France, Greenland
+	c) Russia, Indonesia, Switzerland, Vietnam, India
+
+2. Which of the following countries has the largest land area?
+	a) United States
+	b) China
+	<ANS> c) Canada
+
+3. Which country is not located in the continent of Asia?
+	a) Saudi Arabia
+	<ANS> b) Egypt
+	c) Iraq
+
+4. Which of the following countries has the lowest per capital GDP?
+	<ANS> a) China
+	b) Japan
+	c) South Korea
+
+5. Riyadh is the capital of which country?
+	a) Iraq
+	b) Israel
+	<ANS> c) Saudi Arabia
+
+6. What country uses three official languages?
+	a) Sweden
+	<ANS> b) Switzerland
+	c) South Africa
+
+7. what country spends more than 2% of their GDP towards military?
+	a) China
+	b) Japan
+	<ANS> c) South Korea
+
+8. What country is not located in Southern Europe?
+	a) Spain
+	<ANS> b) France
+	c) Italy
+
+9. Which of the following countries does not speak Spanish?
+	a) Spain
+	<ANS> b) Brazil
+	c) Mexico
+
+10. Which of the following correctly lists the countries in the order of highest population?
+	a) Mexico, Canada, South Korea, Switzerland, Greenland
+	b) India, Germany, Spain, France, Somalia
+	<ANS> c) China, Brazil, Iran, Saudi Arabia, Australia
+
+11. Which country does not speak Arabic as primary lanaguage?
+	a) Egypt
+	<ANS> b) Iran
+	c) Iraq
+
+12. Which country has the lowest per capital GDP?
+	a) Sweden
+	b) Israel
+	<ANS> c) Russia
+
+13. Which country has the highest number of labor force?
+	a) Germany
+	<ANS> b) Nigeria
+	c) Greenland
+
+14. Which country has the lowest population?
+	a) Vietnam
+	<ANS> b) Switzerland
+	c) Australia
+
+15. Which country has the smallest land area?
+	<ANS> a) Italy
+	b) Iraq
+	c) Somalia
