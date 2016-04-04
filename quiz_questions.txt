@@ -1,0 +1,626 @@
+-Capital Problems
+
+What is the capital of the United States?
+	a) Denver
+	<ANS> b) Washington D.C.
+	c) New York
+What is the capital of Canada?
+	<ANS> a) Ottawa
+	b) Toronto
+	c) Alberta
+What is the capital of Mexico?
+	a) San Jose
+	b) Cancun
+	<ANS> c) Mexico City
+What is the capital of Brazil?
+	a) Brazil City
+	b) Rio de Jenero
+	<ANS> c) Brazilia
+What is the capital of the United Kingdom?
+	<ANS> a) London
+	b) York
+	c) Edinburgh
+What is the capital of Germany?
+	a) Munich
+	<ANS> b) Berlin
+	c) Stuttgart
+What is the capital of Russia?
+	<ANS> a) Moscow
+	b) St. Petersburg
+	c) Leningrad
+What is the capital of France?
+	<ANS> a) Paris
+	b) Bordeux
+	c) Amsterdam
+What is the capital of Italy?
+	<ANS> a) Rome
+	b) Milan
+	c) Venice
+What is the capital of Spain
+	<ANS> a) Madrid
+	b) Sevile
+	c) Barcelona
+What is the capital of Iran?
+	a) Shiraz
+	b) Isfahan
+	<ANS> c) Tehran
+What is the capital of Iraq?
+	a) Mosul
+	<ANS> b) Baghdad
+	c) Basra
+What is the capital of Afganistan?
+	<ANS> a) Kabul
+	b) Herat
+	c) Mazar-e Sharif
+What is the capital of Saudi Arabia?
+	a) Mecca
+	b) Medina
+	<ANS> c) Riyadh
+What is the capital of Israel?
+	<ANS> a) Jerusalem
+	b) Tel Aviv
+	c) Haifa
+What is the capital of Nigeria?
+	a) Ibadan
+	<ANS> b) Abuja
+	c) Lagos
+What is the capital of Egypt?
+	a) Luxor
+	b) Alexandria
+	<ANS> c) Cairo
+What is the capital of Somalia?
+	<ANS> a) Mogadishu
+	b) Bosaso
+	c) Hargeisa
+What is the capital of South Africa?
+	a) Johannesburg
+	b) Durban
+	<ANS> c) Cape Town
+What is the capital of India?
+	a) Goa
+	b) Indus
+	<ANS> c) New Delhi
+What is the capital of China?
+	<ANS> a) Beijing
+	b) Nanjing
+	c) Chengdu
+What is the capital of Japan?
+	a) Osaka
+	b) Kyoto
+	<ANS> c) Tokyo
+What is the capital of South Korea?
+	a) Busan
+	<ANS> b) Seoul
+	c) Incheon
+What is the capital of North Korea?
+	<ANS> a) Pyongyang
+	b) Chaeseong
+	c) Anju
+What is the capital of Vietnam?
+	<ANS> a) Hanoi
+	b) Ho Chi Minh City
+	c) Hue
+What is the capital of Australia?
+	a) Melbourne
+	b) Sydney
+	<ANS> c) Canberra
+What is the capital of Sweden?
+	a) Gothenburg
+	<ANS> b) Stockholm
+	c) Uppsala
+What is the capital of Indonesia?
+	a) Bandung
+	b) Surabaya
+	<ANS> c) Jakarta
+What is the capital of Switzerland?
+	a) Zurich
+	<ANS> b) Bern
+	c) Geneva
+What is the capital of Greenland?
+	a) Qaqortoq
+	b) Ilulissat
+	<ANS> c) Nuuk
+
+
+
+
+-Language Problems
+
+What is the primary language used in the United States?
+	a) French
+	b) American
+	<ANS> c) English
+What is the primary language used in Canada?
+	a) French
+	b) English
+	<ANS> c) Both
+What is the primary language used in Mexico?
+	a) Mexican
+	<ANS> b) Spanish
+	c) English
+What is the primary language used in Brazil?
+	<ANS> a) Portuguese
+	b) Spanish
+	c) Brazilian
+What is the primary language used in the United Kingdom?
+	a) French
+	b) Korean
+	<ANS> c) English
+What is the primary language used in Germany?
+	a) French
+	<ANS> b) German
+	c) English
+What is the primary language used in Russia?
+	<ANS> a) Russian
+	b) Stalinian
+	c) English
+What is the primary language used in France?
+	<ANS> a) French
+	b) Yiddish
+	c) English
+What is the primary language used in Italy?
+	a) French
+	<ANS> b) Italian
+	c) English
+What is the primary language used in Spain?
+	<ANS> a) Spanish
+	b) French
+	c) English
+What is the primary language used in Iran?
+	a) Arabic
+	b) Iranian
+	<ANS> c) Persian
+What is the primary language used in Iraq?
+	<ANS> a) Arabic
+	b) Arabian
+	c) Iraqi
+What is the primary language used in Afganistan?
+	<ANS> a) Persian
+	b) French
+	c) English
+What is the primary language used in Saudi Arabia?
+	a) Arabian
+	b) Saudi
+	<ANS> c) Arabic
+What is the primary language used in Israel?
+	a) English
+	<ANS> b) Hebrew
+	c) Arabic
+What is the primary language used in Nigeria?
+	a) Niger
+	b) African
+	<ANS> c) English
+What is the primary language used in Egypt?
+	a) Egyptian
+	<ANS> b) Arabic
+	c) English
+What is the primary language used in Somalia?
+	a) French
+	<ANS> b) Somali
+	c) English
+What is the primary language used in South Africa?
+	<ANS> a) IsiZulu
+	b) African
+	c) English
+What is the primary language used in India?
+	a) Indian
+	<ANS> b) Hindi
+	c) English
+What is the primary language used in China?
+	a) Korean
+	b) Japanese
+	<ANS> c) Chinese
+What is the primary language used in Japan?
+	a) Korean
+	<ANS> b) Japanese
+	c) Chinese
+What is the primary language used in South Korea?
+	<ANS> a) Korean
+	b) Japanese
+	c) Chinese
+What is the primary language used in North Korea?
+	<ANS> a) Korean
+	b) Japanese
+	c) Chinese
+What is the primary language used in Vietnam?
+	a) Korean
+	<ANS> b) Vietnamese
+	c) Chinese
+What is the primary language used in Australia?
+	a) Korean
+	b) Kangaroo
+	<ANS> c) English
+What is the primary language used in Sweden?
+	<ANS> a) Swedish
+	b) English
+	c) French
+What is the primary language used in Indonesia?
+	a) Indo
+	b) Nesia
+	<ANS> c) Bahasa
+What is the primary language used in Switzerland?
+	a) Swiss
+	b) Bernian
+	<ANS> c) none of the above
+What is the primary language used in Greenland?
+	a) Greenlandic
+	b) Danish
+	<ANS> c) both
+
+
+
+
+-Military Spending Problems
+
+What percentage of GDP does the United States spend on the military?
+	<ANS> a) more than 4%
+	b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does Canada spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Mexico spend on the military?
+	a) more than 2%
+	b) between 1% and 2%
+	<ANS> c) less than 1%
+What percentage of GDP does Brazil spend on the military?
+	a) more than 2%
+	<ANS> b) between 1% and 2%
+	c) less than 1%
+What percentage of GDP does the United Kingdom spend on the military?
+	a) more than 4%
+	<ANS> b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does Germany spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Russia spend on the military?
+	a) more than 4%
+	<ANS> b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does France spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Italy spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Spain spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Iran spend on the military?
+	a) 
+	b) 
+	c) 
+What percentage of GDP does Iraq spend on the military?
+	<ANS> a) more than 8%
+	b) between 4% and 8%
+	c) less than 4%
+What percentage of GDP does Afghanistan spend on the military?
+	<ANS> a) more than 20%
+	b) between 10% and 20%
+	c) less than 10%
+What percentage of GDP does Saudi Arabia spend on the military?
+	a) more than 20%
+	<ANS> b) between 10% and 20%
+	c) less than 10%
+What percentage of GDP does Israel spend on the military?
+	a) more than 20%
+	b) between 10% and 20%
+	<ANS> c) less than 10%
+What percentage of GDP does Nigeria spend on the military?
+	a) more than 2%
+	b) between 1% and 2%
+	<ANS> c) less than 1%
+What percentage of GDP does Egypt spend on the military?
+	a) more than 2%
+	<ANS> b) between 1% and 2%
+	c) less than 1%
+What percentage of GDP does Somalia spend on the military?
+	a) 
+	b) 
+	c) 
+What percentage of GDP does South Africa spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does India spend on the military?
+	a) more than 4%
+	<ANS> b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does China spend on the military?
+	<ANS> a) more than 4%
+	b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does Japan spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does South Korea spend on the military?
+	a) more than 4%
+	<ANS> b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does North Korea spend on the military?
+	a) 
+	b) 
+	c) 
+What percentage of GDP does Vietnam spend on the military?
+	a) more than 4%
+	<ANS> b) between 2% and 4%
+	c) less than 2%
+What percentage of GDP does Australia spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Sweden spend on the military?
+	a) more than 2%
+	<ANS> b) between 1% and 2%
+	c) less than 1%
+What percentage of GDP does Indonesia spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Switzerland spend on the military?
+	a) more than 4%
+	b) between 2% and 4%
+	<ANS> c) less than 2%
+What percentage of GDP does Greenland spend on the military?
+	a) more than 4%
+	b) less than 4%
+	<ANS> c) none
+
+
+
+
+-GDP per capital problems
+
+What is the per capital GDP in the United States?
+	a) greater than $70,000
+	b) between $60,000 and $70,000
+	<ANS> c) less than $60,000
+What is the per capital GDP in Canada?
+	<ANS> a) greater than $40,000
+	b) between $20,000 and $40,000
+	c) less than $20,000
+What is the per capital GDP in Mexico?
+	a) greater than $40,000
+	b) between $20,000 and $40,000
+	<ANS> c) less than $20,000
+What is the per capital GDP in Brazil?
+	a) greater than $20,000
+	<ANS> b) between $10,000 and $20,000
+	c) less than $10,000
+What is the per capital GDP in the United Kingdom?
+	a) greater than $50,000
+	<ANS> b) between $40,000 and $50,000
+	c) less than $40,000
+What is the per capital GDP in Germany?
+	<ANS> a) greater than $45,000
+	b) between $40,000 and $45,000
+	c) less than $40,000
+What is the per capital GDP in Russia?
+	a) greater than $40,000
+	<ANS> b) between $20,000 and $40,000
+	c) less than $20,000
+What is the per capital GDP in France?
+	a) greater than $60,000
+	b) between $50,000 and $60,000
+	<ANS> c) less than $50,000
+What is the per capital GDP in Italy?
+	<ANS> a) greater than $35,000
+	b) between $30,000 and $35,000
+	c) less than $30,000
+What is the per capital GDP in Spain?
+	a) greater than $40,000
+	<ANS> b) between $35,000 and $40,000
+	c) less than $35,000
+What is the per capital GDP in Iran?
+	a) greater than $40,000
+	b) between $20,000 and $40,000
+	<ANS> c) less than $20,000
+What is the per capital GDP in Iraq?
+	a) greater than $20,000
+	<ANS> b) between $15,000 and $20,000
+	c) less than $15,000
+What is the per capital GDP in Afghanistan?
+	a) greater than $40,000
+	b) between $20,000 and $40,000
+	<ANS> c) less than $20,000
+What is the per capital GDP in Saudi Arabia?
+	<ANS> a) greater than $40,000
+	b) between $20,000 and $40,000
+	c) less than $20,000
+What is the per capital GDP in Israel?
+	a) greater than $40,000
+	<ANS> b) between $20,000 and $40,000
+	c) less than $20,000
+What is the per capital GDP in Nigeria?
+	a) greater than $10,000
+	<ANS> b) between $5,000 and $10,000
+	c) less than $5,000
+What is the per capital GDP in Egypt?
+	a) greater than $40,000
+	b) between $20,000 and $40,000
+	<ANS> c) less than $20,000
+What is the per capital GDP in Somalia?
+	a) greater than $1,000
+	b) between $500 and $1,000
+	<ANS> c) less than $500
+What is the per capital GDP in South Africa?
+	a) greater than $20,000
+	<ANS> b) between $10,000 and $20,000
+	c) less than $10,000
+What is the per capital GDP in India?
+	a) greater than $20,000
+	b) between $10,000 and $20,000
+	<ANS> c) less than $10,000
+What is the per capital GDP in China?
+	a) greater than $40,000
+	b) between $20,000 and $40,000
+	<ANS> c) less than $20,000
+What is the per capital GDP in Japan?
+	a) greater than $40,000
+	<ANS> b) between $20,000 and $40,000
+	c) less than $20,000
+What is the per capital GDP in South Korea?
+	<ANS> a) greater than $30,000
+	b) between $20,000 and $30,000
+	c) less than $20,000
+What is the per capital GDP in North Korea?
+	a) greater than $40,00
+	b) between $20,00 and $40,00
+	<ANS> c) less than $20,00
+What is the per capital GDP in Vietnam?
+	a) greater than $20,000
+	b) between $10,000 and $20,000
+	<ANS> c) less than $10,000
+What is the per capital GDP in Australia?
+	<ANS> a) greater than $60,000
+	b) between $40,000 and $60,000
+	c) less than $40,000
+What is the per capital GDP in Sweden?
+	a) greater than $60,000
+	<ANS> b) between $40,000 and $60,000
+	c) less than $40,000
+What is the per capital GDP in Indonesia?
+	a) greater than $15,000
+	<ANS> b) between $10,000 and $15,000
+	c) less than $10,000
+What is the per capital GDP in Switzerland?
+	a) greater than $60,000
+	<ANS> b) between $55,000 and $60,000
+	c) less than $55,000
+What is the per capital GDP in Greenland?
+	a) greater than $40,000
+	<ANS> b) between $20,000 and $40,000
+	c) less than $20,000
+
+
+
+
+-Population Problem
+
+What is the population in the United States?
+	<ANS> a) about 300 million
+	b) about 200 million
+	c) about 100 million
+What is the population in Canada?
+	a) about 15 million
+	<ANS> b) about 35 million
+	c) about 55 million
+What is the population in Mexico?
+	a) about 60 million
+	<ANS> b) about 120 million
+	c) about 180 million
+What is the population in Brazil?
+	a) about 300 million
+	<ANS> b) about 200 million
+	c) about 100 million
+What is the population in the United Kingdom?
+	<ANS> a) about 60 million
+	b) about 50 million
+	c) about 40 million
+What is the population in Germany?
+	a) about 60 million
+	<ANS> b) about 80 million
+	c) about 100 million
+What is the population in Russia?
+	a) about 200 million
+	<ANS> b) about 150 million
+	c) about 100 million
+What is the population in France?
+	a) about 140 million
+	b) about 100 million
+	<ANS> c) about 60 million
+What is the population in Italy?
+	<ANS> a) about 60 million
+	b) about 80 million
+	c) about 100 million
+What is the population in Spain?
+	a) about 15 million
+	b) about 35 million
+	<ANS> c) about 55 million
+What is the population in Iran?
+	a) about 50 million
+	<ANS> b) about 80 million
+	c) about 100 million
+What is the population in Iraq?
+	a) about 15 million
+	<ANS> b) about 35 million
+	c) about 55 million
+What is the population in Afghanistan?
+	<ANS> a) about 30 million
+	b) about 50 million
+	c) about 70 million
+What is the population in Saudi Arabia?
+	<ANS> a) about 25 million
+	b) about 50 million
+	c) about 75 million
+What is the population in Israel?
+	a) about 35 million
+	b) about 20 million
+	<ANS> c) about 10 million
+What is the population in Nigeria?
+	a) about 250 million
+	<ANS> b) about 200 million
+	c) about 150 million
+What is the population in Egypt?
+	a) about 200 million
+	b) about 150 million
+	<ANS> c) about 100 million
+What is the population in Somalia?
+	<ANS> a) about 10 million
+	b) about 30 million
+	c) about 50 million
+What is the population in South Africa?
+	a) about 15 million
+	b) about 35 million
+	<ANS> c) about 55 million
+What is the population in India?
+	<ANS> a) about 1.25 billion
+	b) about 1.50 billion
+	c) about 1.75 billion
+What is the population in China?
+	a) about 1 billion
+	<ANS> b) about 1.3 billion
+	c) about 1.6 billion
+What is the population in Japan?
+	a) about 1.27 billion
+	<ANS> b) about 127 million
+	c) about 12.7 million
+What is the population in South Korea?
+	<ANS> a) about 50 million
+	b) about 40 million
+	c) about 30 million
+What is the population in North Korea?
+	a) about 15 million
+	<ANS> b) about 25 million
+	c) about 30 million
+What is the population in Vietnam?
+	a) about 10 million
+	<ANS> b) about 100 million
+	c) about 1 billion
+What is the population in Australia?
+	<ANS> a) about 20 million
+	b) about 200 million
+	c) about 2 million
+What is the population in Sweden?
+	a) about 15 million
+	<ANS> b) about 10 million
+	c) about 5 million
+What is the population in Indonesia?
+	<ANS> a) more than 200 million
+	b) between 100 and 200 million
+	c) less than 100 million
+What is the population in Switzerland?
+	<ANS> a) about 8 million
+	b) about 800 thousand
+	c) about 80 thousand
+What is the population in Greenland?
+	a) about 50 billion
+	b) about 50 million
+	<ANS> c) about 50 thousand
