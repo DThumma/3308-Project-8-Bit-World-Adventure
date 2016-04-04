@@ -1,3 +1,0 @@
-create table if not exists highScores (Username char(20) , UnitedStates integer, Canada integer, Mexico integer, Brazil integer, UK integer, Germany integer, Russia integer, France integer, Italy integer, Spain integer, Iran integer, Iraq integer, Afganstan integer,  SaudiArabia integer, Israel integer, Nigeria integer, Egypt integer, Somalia integer, SouthAfrica integer, India integer, China integer, Japan integer, SouthKorea integer,NorthKorea integer, Vietnam integer, Australia integer, Sweden integer, Indonesia integer, Switzerland integer, Greenland integer);
-
-insert into highScores values ('MICHAEL', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
