@@ -28,7 +28,7 @@ This test runs the main map page and the different features in that page to make
 ######Results of all tests
 ![Screenshot 1](http://i.imgur.com/cYukBSp.png)
 
-#####Automated Tests:  
+#####User Acceptance Tests:  
   
 ######Test 1-
 ![Screenshot 7](http://i.imgur.com/PglDcnL.jpg?1)
