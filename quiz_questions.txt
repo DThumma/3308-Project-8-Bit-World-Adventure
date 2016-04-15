@@ -73,9 +73,9 @@ What is the capital of Somalia?
 	b) Bosaso
 	c) Hargeisa
 What is the capital of South Africa?
-	a) Johannesburg
-	b) Durban
-	<ANS> c) Cape Town
+	a) Bloemfontein, and Phetoria
+	b) Cape Town
+	<ANS> c) all of the above
 What is the capital of India?
 	a) Goa
 	b) Indus
@@ -172,7 +172,7 @@ What is the primary language used in Iran?
 	<ANS> c) Persian
 What is the primary language used in Iraq?
 	<ANS> a) Arabic
-	b) Arabian
+	b) Kurdish
 	c) Iraqi
 What is the primary language used in Afganistan?
 	<ANS> a) Persian
@@ -297,9 +297,9 @@ What percentage of GDP does Iran spend on the military?
 	b) 
 	c) 
 What percentage of GDP does Iraq spend on the military?
-	<ANS> a) more than 8%
+	a) more than 8%
 	b) between 4% and 8%
-	c) less than 4%
+	<ANS> c) less than 4%
 What percentage of GDP does Afghanistan spend on the military?
 	<ANS> a) more than 20%
 	b) between 10% and 20%
