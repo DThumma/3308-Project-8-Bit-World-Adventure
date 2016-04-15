@@ -225,16 +225,16 @@ Iraq
 	c) Basra
 2. What is the primary language used in Iraq?
 	<ANS> a) Arabic
-	b) Arabian
-	c) Iraqi
+	b) Kurdish
+        c) Iraqi
 3. What percentage of GDP does Iraq spend on the military?
-	<ANS> a) more than 8%
+	a) more than 8%
 	b) between 4% and 8%
-	c) less than 4%
+	<ANS> c) less than 4%
 4. What is the per capital GDP in Iraq?
 	a) greater than $20,000
-	<ANS> b) between $15,000 and $20,000
-	c) less than $15,000
+	b) between $15,000 and $20,000
+	<ANS>c) less than $15,000
 5. What is the population in Iraq?
 	a) about 15 million
 	<ANS> b) about 35 million
@@ -352,9 +352,9 @@ Somalia
 
 South Africa
 1. What is the capital of South Africa?
-	a) Johannesburg
-	b) Durban
-	<ANS> c) Cape Town
+	a) Pretoria, and Bloemfontein
+	b) Cape Town
+	<ANS> c) all of the above
 2. What is the primary language used in South Africa?
 	<ANS> a) IsiZulu
 	b) African
