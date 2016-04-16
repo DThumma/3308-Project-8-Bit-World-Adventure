@@ -1,1 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<meta charset="UTF-8">
+<style>
+div#test{ border:#000 3px dashed; padding:10px 40px 40px 40px; }
+
+
+</style>
+<script>
+var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0; // pos is position in array of questions, chA, chB, and chC are the choices
+var questions = [  //where all our questions are
+    [ "What is the capital of Japan?", "Osaka", "Kyoto", "Tokyo", "C" ],
+	[ "What is the primary language used in Japan?", "Korean", "Japanese", "Chinese", "B" ],
+	[ "What percentage of GDP does Japan spend on the military?", "more than 4%", "between 2% and 4%", "less than 2%", "C" ],
+	[ "What is the per capita GDP in Japan?", "greater than $40,000", "between $20,000 and $40,000", "less than $20,000", "B" ],
+	[ "What is the population in Japan?", "about 1.27 billion", "about 127 million", "about 12.7 million", "B" ]
+];
+function _(x){
+	return document.getElementById(x);
+}
+function renderQuestion(){
+	test = _("test");
+	if(pos >= questions.length){
+		test.innerHTML = "<h2>You got "+correct+" of "+questions.length+" questions correct</h2>";
+		_("test_status").innerHTML = "Quiz Completed";
+		pos = 0;
+		correct = 0;
+		return false;
+	}
+	_("test_status").innerHTML = "Japan Quiz Question "+(pos+1)+" of "+questions.length;
+	question = questions[pos][0];  //target the question
+	chA = questions[pos][1];  //target first option
+	chB = questions[pos][2]; //target second option
+	chC = questions[pos][3]; //target first option
+	test.innerHTML = "<h3>"+question+"</h3>";
+	test.innerHTML += "<input type='radio' name='choices' value='A'> "+chA+"<br>";
+	test.innerHTML += "<input type='radio' name='choices' value='B'> "+chB+"<br>";
+	test.innerHTML += "<input type='radio' name='choices' value='C'> "+chC+"<br><br>";
+	test.innerHTML += "<button onclick='checkAnswer()'>Submit Answer</button>";
+}
+function checkAnswer(){
+	choices = document.getElementsByName("choices");
+	for(var i=0; i<choices.length; i++){
+		if(choices[i].checked){
+			choice = choices[i].value;
+		}
+	}
+	if(choice == questions[pos][4]){
+		correct++;	
+		document.getElementById("answer").innerHTML = "CORRECT!"
+		}
+	else{
+		if (questions[pos][4] == 'A'){
+			document.getElementById("answer").innerHTML = "Sorry, the the correct answer to '"+questions[pos][0]+"' was "+questions[pos][1]+"!"
+			//window.alert(questions[pos][4])
+		}
+        if (questions[pos][4] == 'B'){
+			document.getElementById("answer").innerHTML = "Sorry, the the correct answer to '"+questions[pos][0]+"' was "+questions[pos][2]+"!"
+			//window.alert(questions[pos][4])
+		}
+        if (questions[pos][4] == 'C'){
+			document.getElementById("answer").innerHTML = "Sorry, the the correct answer to '"+questions[pos][0]+"' was "+questions[pos][3]+"!"
+			//window.alert(questions[pos][4])
+		}
+	}
+
+	pos++;
+	renderQuestion();
+}
+window.addEventListener("load", renderQuestion, false);
+</script>
+</head>
+<body>
+	<ul>
+  <li><a class="active" href="8bit_map_dataIncluded.html">Map</a></li>
+  <li><a class="active" href="quiz.html">Quizzes</a></li>
+  <li><a class="active" href="scores.html">Scores</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Choose Avatar</a>
+    <div class="dropdown-content" id="myDropdown">
+		<img id = "pic1" src="femaleavatar1.png" alt="female avatar 1" style="width:100px;height:100px" onclick="chooseAvatar1()"/>
+		<img id = "pic2" src="femaleavatar2.png" alt="female avatar 2" style="width:100px;height:100px" onclick="chooseAvatar2()"/>
+		<img id = "pic3" src="femaleavatar3.png" alt="female avatar 3" style="width:100px;height:100px" onclick="chooseAvatar3()"/>
+		<img id = "pic4" src="femaleavatar4.png" alt="female avatar 4" style="width:100px;height:100px" onclick="chooseAvatar4()"/>
+		<img id = "pic5" src="femaleavatar5.png" alt="female avatar 1" style="width:100px;height:100px" onclick="chooseAvatar5()"/>
+		<img id = "pic6" src="maleavatar1.png" alt="make avatar 1" style="width:100px;height:100px" onclick="chooseAvatar6()"/>
+		<img id = "pic7" src="maleavatar3.png" alt="male avatar 3" style="width:100px;height:100px" onclick="chooseAvatar7()"/>
+		<img id = "pic8" src="maleavatar4.png" alt="male avatar 4" style="width:100px;height:100px" onclick="chooseAvatar8()"/>
+		<img id = "pic9" src="maleavatar5.png" alt="male avatar 5" style="width:100px;height:100px" onclick="chooseAvatar9()"/>
+    </div>
+  </li>
+</ul>
+
+<h2 id="test_status"></h2>
+<div id="test"></div>
+<h4 id="answer"></h4>
+<img  src="japanflag.png" alt="Japanese flag" style="width:900px;height:500px"/>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    for (var d = 0; d < dropdowns.length; d++) {
+      var openDropdown = dropdowns[d];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+function chooseAvatar1(pic) {
+	document.getElementById('pic1').src='femaleavatar1.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar2(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar3(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar4(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar5(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar6(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar7(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar8(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4.png'
+	document.getElementById('pic9').src='maleavatar5bw.png'
+}
+function chooseAvatar9(pic) {
+	document.getElementById('pic1').src='femaleavatar1bw.png'
+	document.getElementById('pic2').src='femaleavatar2bw.png'
+	document.getElementById('pic3').src='femaleavatar3bw.png'
+	document.getElementById('pic4').src='femaleavatar4bw.png'
+	document.getElementById('pic5').src='femaleavatar5bw.png'
+	document.getElementById('pic6').src='maleavatar1bw.png'
+	document.getElementById('pic7').src='maleavatar3bw.png'
+	document.getElementById('pic8').src='maleavatar4bw.png'
+	document.getElementById('pic9').src='maleavatar5.png'
+}
+</script>
+</body>
+</html>
+
 
