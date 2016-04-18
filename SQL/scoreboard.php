@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysql_connect("localhost", "root", "d051514793");
+$conn = mysqli_connect("localhost", "root", "d051514793");
 mysql_select_db("scores");
 
 $sql = "SELECT * FROM board";
@@ -17,5 +17,5 @@ if ($result->num_rows > 0) {
 }
 
 echo "</table>";
-mysql_close();
+mysqli_close();
 ?>
