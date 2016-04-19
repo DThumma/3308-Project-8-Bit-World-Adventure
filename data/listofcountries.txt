@@ -1,0 +1,1 @@
+['United States of America', 'Canada', 'Mexico', 'Brazil', 'Germany', 'Russia', 'France', 'Italy', 'Spain', 'Iran','Iraq', 'Saudi Arabia', 'Israel' , 'Nigeria', 'Egypt', 'Somalia',  'South Africa', 'India' , 'China' , 'Japan' , 'South Korea' ,'North Korea' , 'Vietnam' , 'Australia' , 'Sweden' , 'Indonesia' , 'Switzerland' , 'Greenland']
