@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+	
+<style>
+	p {
+		border-top-style: dotted;
+		border-right-style: dotted;
+		border-bottom-style: dotted;
+		border-left-style: dotted;
+	}
+</style>
+		
 <link rel="stylesheet" type="text/css" href="mystyle.css">
 <meta charset="UTF-8">
 <style>
 div#test{ border:#000 3px dashed; padding:10px 40px 40px 40px; }
-
-
 </style>
-<script>
- 
-</script>
 </head>
 <body>
 	<ul>
@@ -32,9 +37,33 @@ div#test{ border:#000 3px dashed; padding:10px 40px 40px 40px; }
     </div>
   </li>
 </ul>
-
-
 <script>
+	
+	function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+function checkCookie(countryname) {
+    var user=getCookie(countryname);
+    if (user != "") {
+		document.write(user);
+        return user;
+    } else {
+       document.write("-")
+       return user;
+    }
+}
+
+
+
 /* When the user clicks on the button, 
 toggle between hiding and showing the dropdown content */
 function myFunction() {
@@ -152,8 +181,310 @@ function chooseAvatar9(pic) {
 	document.getElementById('pic8').src='maleavatar4bw.png'
 	document.getElementById('pic9').src='maleavatar5.png'
 }
+//From here on downwards is that table. The left column is for countries and the right column is for the most recent scores per test
 </script>
 </body>
+<br>
+
+<br>
+<center><font size = "20"> Most Recent Scores for Current User </font ><center>
+<br>
+	
+
+<table border = "1">	
+	<tr>
+		<td>Australia</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("auScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Brazil</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("brScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Canada</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("caScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>China</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("chScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Egypt</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("egScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>France</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("frScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Germany</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("geScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Greenland</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("grScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>India</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("indiaScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Indonesia</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("indoScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Iran</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("iranScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Iraq</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("iraqScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Israel</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("isScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Italy</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("itScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Japan</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("jpScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Mexico</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("meScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Nigeria</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("niScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>North Korea</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("nkScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Russia</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("rsScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Saudi Arabia</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("saScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Somalia</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("soScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>South Africa</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("safScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>South Korea</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("skScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Spain</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("spScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Sweden</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("swedeScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Switzerland</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("switzScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>USA</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("usScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>Vietnam</td>
+		<td>
+			<center>
+				<script>
+					checkCookie("viScore");
+				</script>
+			</center>
+		</td>
+	</tr>
+	</table>
+
+<body >
+	<br>
+	<br>
+	<br>
+<audio src = "scoreboardTheme.MP3" controls autoplay loop>
+	<p>
+		Your browser does not support this MP3 audio file
+	</p>
+	</audio>
+</body>
+
 </html>
 
-
+	
