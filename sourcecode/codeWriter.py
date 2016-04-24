@@ -1,6 +1,0 @@
-changeFile = open("databaseChanger.sql", "r+w+x")
-changeFile.write("create database if not exists scores;\n")
-changeFile.write("use scores\n")
-changeFile.write("create table if not exists scoreList (Username char(20) , UnitedStates integer, Canada integer, Mexico integer, Brazil integer, UK integer, Germany integer, Russia integer, France integer, Italy integer, Spain integer, Iran integer, Iraq integer, Afganstan integer,  SaudiArabia integer, Israel integer, Nigeria integer, Egypt integer, Somalia integer, SouthAfrica integer, India integer, China integer, Japan integer, SouthKorea integer,NorthKorea integer, Vietnam integer, Australia integer, Sweden integer, Indonesia integer, Switzerland integer, Greenland integer);\n")
-changeFile.write("insert into scoreList values ('DIXIE', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);")
-changeFile.close()
