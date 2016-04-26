@@ -1,5 +1,23 @@
 # 3308-Project-8-Bit-World-Adventure
+###Repo Organization info:
+sourcecode: file that holds every file you will need to run our website 
 
+othercode: file that holds code we used while working on our project but is not in the final code
+
+data: file that holds research information for the country facts in our website
+
+TESTING: shows what tests we used and how tests can be made
+
+videodemo: video of our project in action, must download or go to this <a href="https://8bitworld.tinytake.com/sf/NjE1OTQ0XzMwNDg1MjY " target="_blank">link</a>
+
+###How to Build/Run/Test:
+Build: no need to build anything, you must just have all the files in the folder "source code" in one folder on your computer
+
+Run: execute the file [8bit_map_dataIncluded.html] (sourcecode/8bit_map_dataIncluded.html) to run the the website locally 
+
+Test: see [TESTING.MD] (TESTING.md) to learn about testing
+
+###Proposal:
 #####Who:
 Jeffrey Won, Jeffrey Kim, Deekshitha Thumma, Michael Min, Gabriel Cohen
 
